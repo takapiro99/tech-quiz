@@ -1,68 +1,31 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## React ハンズオン 2020 夏
 
-In the project directory, you can run:
+このレポジトリは、[HUIT](https://twitter.com/huitclub) で開催した React ハンズオンの成果物です
 
-### `yarn start`
+#### 【日程】
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 9/4 (金) 21:30~22:00 - pre 第１回: 環境構築や JavaScript についてわいわい編 (任意参加)
+- 9/4 (金) 22:00~23:30 - 第１回: React 基礎・見た目作成編
+- 9/11 (金) 22:00~24:00 - 第２回 API 利用・デプロイ編
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+#### 【やること】
 
-### `yarn test`
+- SPA な web アプリ作成を通して、React や JavaScript や web 開発を学んでいく
+- [これ](https://dokodemo-tech-quiz.firebaseapp.com/)を作ります(予定)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### 【事前準備】
 
-### `yarn build`
+当日までに 環境構築をお願いします ↓
+https://gist.github.com/takapiro99/50e15c6128b530e23f3c262aa8b1f39f
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### 【資料】
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+##### 第一回
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+https://docs.google.com/presentation/d/137JTV7faxQF-dk9ehwvak1157sbAG6k6SFUfqzsIKfc
 
-### `yarn eject`
+##### 第二回
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+https://docs.google.com/presentation/d/1lYgNsNx_jpXUWVVcHRWQ5iv_67VrSPl_rIq8n7YFwPY
