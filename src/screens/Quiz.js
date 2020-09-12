@@ -34,7 +34,7 @@ const Quiz = () => {
     axios
       .get(url, config)
       .then((res) => {
-        // console.log(res)
+        console.log("元データ", res.data[0]);
         if (res.data) {
           setquizzes(res.data[0]);
         }
@@ -49,6 +49,10 @@ const Quiz = () => {
   };
 
   const checkAnswer = () => {
+    console.log("===========");
+    console.log("correctAnswers", correctAnswers);
+    console.log("===========");
+    console.log("加工後", quizList);
     // 処理しやすい形に変換
     const realAnswer = quizList
       .map((item, index) => ({
