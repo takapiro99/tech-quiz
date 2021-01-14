@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### 【やること】
 
 - SPA な web アプリ作成を通して、React や JavaScript や web 開発を学んでいく
-- [これ](https://dokodemo-tech-quiz.firebaseapp.com/)を作りました
+- [これ](https://dokodemo-tech-quiz.firebaseapp.com/) を作りました
 
 #### 【事前準備】
 
